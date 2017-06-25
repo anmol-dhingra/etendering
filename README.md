@@ -8,5 +8,5 @@ Languages used-HTML, CSS, PHP, SQL, JavaScript.
 1- DBMS/emp.sql contains the my-sql tables in it you can import it in phpMyAdmin.
 2- htdocs contains all the php files just copy all the files in htdocs to your xampp htdocs folder.(Note we have used Apache server for localhost so add all the files to your htdocs).
 3- FE in DBMS folder contains all the html files and the css files
-Note-e-tendering.html is the home page.
+Note-source.html is the home page.
 
