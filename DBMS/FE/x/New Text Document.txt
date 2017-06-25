@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>Punjab Water Resources and Management Corporation</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="css1.css">
+</head>
+<body background="imsbg.jpg">
+
+<div id="telephone_directory">
+<fieldset>
+<legend> <b>Telephone Directory</b> </legend>
+
+<table border=1>
+
+<caption> <b>Head Office, PWRM&DC Ltd; Chandigarh</b> </caption>
+<tr>
+<th> Sno. </th>
+<th> Name </th>
+<th> Department </th>
+<th> Office No. </th>
+<th> Mobile No. </th>
+<th> Fax No. </th>
+<th> E-mail id </th>
+</tr>
+
+<tr>
+<td>1.</td>
+<td> Ravi Karan Singh Kahlon </td>
+<td> Chairman </td>
+<td> 0172-2790790 </td>
+<td> 97804-00002 </td>
+<td> 0172-2790498 </td>
+<td> chairman@pwrmdc.com </td>
+</tr>
+
+<tr>
+<td>2.</td>
+<td> Surinder Singh Grewal </td>
+<td> Managing Director </td>
+<td> 0172-2790790 </td>
+<td> 99152-60009 </td>
+<td> 0172-2790498 </td>
+<td> md@pwrmdc.com </td>
+</tr>
+
+<tr>
+<td>3.</td>
+<td> Surinder Singh Grewal </td>
+<td> Chief Project Officer </td>
+<td> 0172-2793223 </td>
+<td> 99152-60009 </td>
+<td> 0172-2793223 </td>
+<td> seplanning@yahoo.com </td>
+</tr>
+
+<tr>
+<td>4.</td>
+<td> Surinder Singh Grewal </td>
+<td> Chief Vigilance Officer </td>
+<td> 0172-2793223 </td>
+<td> 99152-60009 </td>
+<td> 0172-2793223 </td>
+<td> se_planning@pwrmdc.com </td>
+</tr>
+
+<tr>
+<td>5.</td>
+<td> R.K. Behl </td>
+<td> Financial Advisor </td>
+<td> 0172-2790767 </td>
+<td> 98724-70522 </td>
+<td> -- </td>
+<td> fapwrmdcchd@gmail.com </td>
+</tr>
+
+<tr>
+<td>6.</td>
+<td> Adarsh Kumar Sharma </td>
+<td> D.E. (Lining) </td>
+<td> 0172-2790630 </td>
+<td> 98720-12351 </td>
+<td> -- </td>
+<td> deliningpwrmdc@gmail.com </td>
+</tr>
+
+<tr>
+<td>7.</td>
+<td> Adarsh Kumar Sharma </td>
+<td> D.E. (Tubewell) </td>
+<td> 0172-2792966 </td>
+<td> 98720-12351 </td>
+<td> -- </td>
+<td> detpwrmdc@gmail.com </td>
+</tr>
+
+<tr>
+<td>8.</td>
+<td> Adarsh Kumar Sharma </td>
+<td> D.E. (Planning) </td>
+<td> 0172-2795560 </td>
+<td> 98159-75533 </td>
+<td> -- </td>
+<td> deplanningpwrmdc2014@gmail.com </td>
+</tr>
+
+<tr>
+<td>9.</td>
+<td> Paramjit Singh Athwal </td>
+<td> D.E. (Establishment) </td>
+<td> 0172-2790235 </td>
+<td> 98881-33602 </td>
+<td> -- </td>
+<td> deesttpwrmdc2014@gmail.com </td>
+</tr>
+
+</table>
+
+</fieldset>
+</div>
+   
+</body>
+</html>

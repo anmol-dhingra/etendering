@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>Punjab Water Resources and Management Corporation</title>
+    <meta charset="utf-8">
+<style>
+
+#slider{
+height:400px;
+width:650px;
+position:relative;
+}
+
+#img{
+height:400px;
+width:650px;
+position:absolute;
+}
+
+#left{
+height:50px;
+width:50px;
+position:absolute;
+top:42%;
+left:0px;
+opacity:0.3;
+}
+
+#right{
+height:50px;
+width:50px;
+position:absolute;
+top:42%;
+right:0px;
+opacity:0.3;
+}
+
+#left:hover{
+opacity:0.9;
+}
+
+#right:hover{
+opacity:0.9;
+}
+
+</style>
+
+<script type="text/javascript">
+var imagecount=1;
+var total=4;
+
+function slide(x)
+{
+var image = document.getElementById('img');
+imagecount=imagecount+x;
+if(imagecount>total) { imagecount=1; }
+if(imagecount<1) { imagecount=total; }
+image.src="images/img" + imagecount + ".jpg";
+}
+
+window.setInterval(function slideA()
+{
+var image = document.getElementById('img');
+imagecount=imagecount+1;
+if(imagecount>total) { imagecount=1; }
+if(imagecount<1) { imagecount=total; }
+image.src="images/img" + imagecount + ".jpg";
+},2000);
+
+
+</script>
+
+</head>
+<body>
+<div id="slider">
+<img src="images/img1.jpg" id="img"/>
+<img onclick="slide(-1)" src="images/left.png" id="left"/>
+<img onclick="slide(1)" src="images/right.png" id="right"/>
+</div>
+   
+</body>
+</html>
